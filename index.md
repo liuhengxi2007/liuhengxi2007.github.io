@@ -10,9 +10,7 @@ title: test title 1
 
 $\int_{-\infty}^{+\infty} e^{-x^2/2}$
 
-\[
-\int_{-\infty}^{+\infty} e^{-x^2/2}
-\]
+$$\int_{-\infty}^{+\infty} e^{-x^2/2}$$
 
 [md link](http://127.0.0.1)
 
